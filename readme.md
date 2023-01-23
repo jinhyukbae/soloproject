@@ -21,6 +21,8 @@
 | Num.|Name         |Code|
 |:---:|---|:---:|
 | 1 | Machine Learning 1 Machine Learning |[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EB%8C%80%ED%95%99%EC%A0%84%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.ipynb)|
+| 2 | Machine Learning 1 노트북 스펙 데이터를 이용해 판매가 예측하기 |[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EC%9C%A0%EB%9F%BD%EB%85%B8%ED%8A%B8%EB%B6%81%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)|
+
 
 
 ### Deep Learning :satellite:
