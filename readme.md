@@ -41,5 +41,4 @@ LSTM을 이용해 애플 구글 마소 아마존 주가 예측하기 |[code](htt
 GAN을 이용해 새로운 포켓몬 만들기|[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%ED%8F%AC%EC%BC%93%EB%AA%AC%20GAN.ipynb)|
 VGG16 모델을 이용한 과일 이미지 분류|[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EA%B3%BC%EC%9D%BC%20%EB%B6%84%EB%A5%98.ipynb)|
 토마토 잎병 이미지 분류|[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EB%AF%B8%EA%B5%AD%20%EA%B8%B0%EC%88%A0%EC%A3%BC%20%EB%B6%84%EC%84%9D.ipynb)|
-
-
+야채 이미지 다중 분류|[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EC%95%BC%EC%B1%84%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%EB%A5%98%20vgg16.ipynb)|
