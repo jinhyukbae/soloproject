@@ -14,6 +14,13 @@
 
 ## Personal Experiences
 
+### Django 
+-----
+Name         |Code|
+---|:---:|
+ 게시판 사이트 |[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EB%8C%80%ED%95%99%EC%A0%84%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.ipynb)|
+ 블로그 사이트 |[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EB%8C%80%ED%95%99%EC%A0%84%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.ipynb)|
+
 ### Data Analysis :camera:
 -----
 
