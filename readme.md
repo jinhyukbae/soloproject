@@ -44,6 +44,7 @@ GLOBAL TRUST RATE |[code](https://github.com/jinhyukbae/soloproject/blob/main/Da
 
 Name         |Code|
 ---|:---:|
+문법교정,패러프레이징 기능이 탑재된 영어 일기 서비스 |[code](https://github.com/jinhyukbae/eat_write_sleep/tree/main)|
 LSTM을 이용해 애플 구글 마소 아마존 주가 예측하기 |[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EB%AF%B8%EA%B5%AD%20%EA%B8%B0%EC%88%A0%EC%A3%BC%20%EB%B6%84%EC%84%9D.ipynb)|
 GAN을 이용해 새로운 포켓몬 만들기|[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%ED%8F%AC%EC%BC%93%EB%AA%AC%20GAN.ipynb)|
 VGG16 모델을 이용한 과일 이미지 분류|[code](https://github.com/jinhyukbae/soloproject/blob/main/Data_Science/%EA%B3%BC%EC%9D%BC%20%EB%B6%84%EB%A5%98.ipynb)|
