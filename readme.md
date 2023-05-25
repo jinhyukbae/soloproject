@@ -14,7 +14,7 @@
 
 ## Personal Experiences
 
-### Django :ring:
+### Django :shipit:
 -----
 Name         |Code|
 ---|:---:|
