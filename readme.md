@@ -19,7 +19,7 @@
 -----
 Name         |Code|
 ---|:---:|
- 필기&오류해결일지 |[code](https://aquatic-layer-69f.notion.site/1cfc13c6ec9f48e7b8694ae796960871?v=d3ffb393a64d49fb9b74da0be4384e6d)|
+ 필기&오류해결일지 |[code](https://jinhyukbae.notion.site/1cfc13c6ec9f48e7b8694ae796960871?v=d3ffb393a64d49fb9b74da0be4384e6d&pvs=4)|
 
 
 
